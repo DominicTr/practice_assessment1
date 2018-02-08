@@ -1,0 +1,51 @@
+#center {
+	position:absolute;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	margin:auto;
+	width:30vw;
+	height:30vh;
+	text-align:center;
+	
+	
+}
+
+
+#img {
+	height:100%;
+	display: block;
+	right:0px;
+	left:0px;
+	margin:auto;
+	padding: 5px;
+}
+#up {
+	position:absolute;
+	top:-21px;
+	right:45%;
+	left:45%;  
+	margin:auto;
+	text-align: center;
+
+}
+#down {
+	position:absolute;
+	bottom:-70px;
+	left:45%;
+	right:45%;
+	
+}
+#left {
+	position:absolute;
+	bottom:45%;
+	top:45%;
+	left:-34px;
+}
+#right {
+	position:absolute;
+	bottom:45%;
+	top:45%;
+	right:-41px;
+}
